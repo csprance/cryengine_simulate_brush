@@ -1,0 +1,5 @@
+<toolboxmacros>
+    <macro icon="" shortcut="" title="SimBrush" tooltip="Convert a brush toa  physics object and simulate it or convert a physics object to a brush">
+        <command bVariableToggle="0" text="general.run_file(r'simulatebrush.py')" type="1"/>
+    </macro>
+</toolboxmacros>
